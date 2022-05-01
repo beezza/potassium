@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "id": "sodium",
   "version": "${version}",
-  "name": "Sodium",
-  "description": "Sodium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
+  "name": "Potassium",
+  "description": "Potassium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
   "authors": [
-    "JellySquid"
+    "Beelovers"
   ],
   "contact": {
-    "sources": "https://github.com/CaffeineMC/sodium-fabric",
-    "issues": "https://github.com/CaffeineMC/sodium-fabric/issues"
+    "sources": "https://github.com/beezza/potassium",
+    "issues": "https://github.com/beezza/potassium/issues"
   },
   "license": "LGPL-3.0-only",
   "icon": "assets/sodium/icon.png",
