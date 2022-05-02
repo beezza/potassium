@@ -3,7 +3,7 @@
   "id": "sodium",
   "version": "${version}",
   "name": "Potassium",
-  "description": "Potassium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
+  "description": "Potassium is free and open source optimization fabric mod for minecraft, it is forked from the original Sodium",
   "authors": [
     "Beelovers"
   ],
